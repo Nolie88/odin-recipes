@@ -10,17 +10,13 @@ The website will consist of a main index page which will have links to a few rec
 
 The aim is to use basic HTML tags such
 
-<<<<<<< HEAD
 strong, em, i, as well as ordered, ol and unordered, ul, lists.
-=======
-`<strong>, <em>, <i>, as well as ordered, <ol> and unordered, <ul>, lists.`
->>>>>>> 5bd0104 (Created index.html and set up the first recipe. It's for Buffalo Wings by the way.)
 
 ## The Outcome
 
 I found this project quite easy and was able to utilise some more tags that were not necessarily emphasized within the lessons.
 
-I mostly enjoyed remembering recipes that I have previously enjoyed and figuring our ways that I could present them nicely through HTML. :)
+I mostly enjoyed remembering recipes that I have previously enjoyed and figuring our ways that I could present them nicely through HTML. :smile:
 
 ## Follow Up
 
