@@ -10,7 +10,7 @@ The website will consist of a main index page which will have links to a few rec
 
 The aim is to use basic HTML tags such
 
-//<strong>, <em>, <i>, as well as ordered, <ol> and unordered, <ul>, lists.//
+strong, em, i, as well as ordered, ol and unordered, ul, lists.
 
 ## The Outcome
 
